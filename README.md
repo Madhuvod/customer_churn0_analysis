@@ -15,3 +15,9 @@ Make data-driven decisions: Use insights to make better choices for keeping cust
 The Skills used are:
 PowerBI 
 Excel
+
+
+![Customer Churn Dashboard](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/e91b9651-b26e-4ca0-af99-feb91311f5dd)
+
+![Customer Churn Dashboard](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/e91b9651-b26e-4ca0-af99-feb91311f5dd)
+
