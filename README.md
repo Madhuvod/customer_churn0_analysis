@@ -19,5 +19,5 @@ Excel
 # Customer Churn Dashboard:
 ![Customer Churn Dashboard](https://github.com/Madhuvod/customer_churn0_analysis/blob/main/Customer%20Churn.png)
 
-![Customer Churn Dashboard](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/e91b9651-b26e-4ca0-af99-feb91311f5dd)
+![Customer Risk Dashboard]((https://github.com/Madhuvod/customer_churn0_analysis/blob/main/CustomerRisk.png))
 
