@@ -1,4 +1,4 @@
-# customer_churn0_analysis
+## customer_churn0_analysis
 
 This project uses Power BI Desktop and Excel to help businesses prevent customer loss and improve customer service. Churn rate is a measure of the proportion of individuals or items moving out of a group over a specific period. It is one of two primary factors that determine the steady-state level of customers a business will support.
 
@@ -16,8 +16,8 @@ The Skills used are:
 PowerBI 
 Excel
 
-
-![Customer Churn Dashboard](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/e91b9651-b26e-4ca0-af99-feb91311f5dd)
+# Customer Churn Dashboard:
+![Customer Churn Dashboard](https://github.com/Madhuvod/customer_churn0_analysis/blob/main/Customer%20Churn.png)
 
 ![Customer Churn Dashboard](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/e91b9651-b26e-4ca0-af99-feb91311f5dd)
 
