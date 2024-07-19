@@ -19,5 +19,6 @@ Excel
 # Customer Churn Dashboard:
 ![Customer Churn Dashboard](https://github.com/Madhuvod/customer_churn0_analysis/blob/main/Customer%20Churn.png)
 
+# Customer Risk Dashboard
 ![Customer Risk Dashboard]((https://github.com/Madhuvod/customer_churn0_analysis/blob/main/CustomerRisk.png))
 
